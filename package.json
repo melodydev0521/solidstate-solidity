@@ -1,7 +1,7 @@
 {
   "name": "root",
   "private": true,
-  "author": "Nick Barry",
+  "author": "Melody",
   "license": "MIT",
   "scripts": {
     "lerna-publish": "yarn build && lerna publish && lerna run tsc-clean",
